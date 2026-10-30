@@ -1,7 +1,3 @@
-# Declaration
-
-[Something about Cleanroom](https://gist.github.com/Rongmario/6479470e3108185a45106c32ca0e1c4e#file-cleanroom_news_2024-02-12-md)
-
 ## About translation
 
 We currently support en_us(English) and zh_cn(简体中文).
